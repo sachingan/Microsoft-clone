@@ -42,6 +42,9 @@
     float:left;
     font-size: 14px;
 }
+.menuitem:hover{
+    text-decoration: underline;
+}
 .header-right{
     width:400px;
     height:35px;
